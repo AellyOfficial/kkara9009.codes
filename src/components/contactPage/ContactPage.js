@@ -11,25 +11,25 @@ const Contact = () => {
     const contactOptions = [
         {
             contactMethod: "linkedin",
-            url: "https://www.linkedin.com/in/nneka-tielman/",
+            url: "https://www.linkedin.com/in/kkara9009/",
             iconName: faLinkedin,
             showOn: "both"
         },
         {
             contactMethod: "github",
-            url: "https://github.com/NTielman",
+            url: "https://github.com/Kkara9009",
             iconName: faGithubSquare,
             showOn: "dev"
         },
         {
             contactMethod: "instagram",
-            url: "https://www.instagram.com/unsuprvsd/?hl=en",
+            url: "https://www.instagram.com/kkara9009/?hl=en",
             iconName: faInstagram,
             showOn: "des"
         },
         {
             contactMethod: "gmail",
-            url: "mailto:khalienne@gmail.com",
+            url: "mailto:kkara9009@gmail.com",
             iconName: faEnvelopeSquare,
             showOn: "both"
         },
