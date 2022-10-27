@@ -12,7 +12,7 @@ const designBio = {
         'Adobe Premier'],
     image: '/assets/images/about/designAvatar.png',
     webpImage: '/assets/images/about/designAvatar.webp',
-    caption: 'Depiction of Nika when in the vicinity of sushi. (you have been warned)'
+    caption: 'Depiction of Karan when in the vicinity of Gaming. (you have been warned)'
 }
 
 export default designBio;
