@@ -770,11 +770,11 @@
                     },
                     {
                         title: "Text to Handwriting",
-                        liveDemoUrl: "https://aelly.tk",
-                        shortDescription: "A RESTful API containing information on the Hamilton musical",
+                        githubUrl: "https://aelly.tk",
+                        shortDescription: "Text to handwriting converter with advance features",
                         longDescription:
-                            "Using FastAPI and Peewee designed a relational database of the Hamilton musical and created a REST API for querying the database. API contains information on the cast, musical tracks, and roles found in the Hamilton musical",
-                        tools: ["Python", "FastAPI", "Peewee", "SQLite", "Uvicorn"],
+                            "This is the website you are viewing right now. Using css and js built a text to handwriting website that allows users to convert TEXT ti HANDWRITING with  some advance features such as add your own Handwriting.",
+                        tools: ["Html", "JavaScript", "CSS", "React"],
                         image: "/assets/images/projects/devProjects/hamilton.jpeg",
                         webpImage: "/assets/images/projects/devProjects/hamilton.webp",
                         key: 8,
