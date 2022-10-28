@@ -770,7 +770,7 @@
                     },
                     {
                         title: "Text to Handwriting",
-                        demoUrl: "https://aelly.tk",
+                        githubUrl: "https://aelly.tk",
                         shortDescription: "Text to handwriting converter with advance features",
                         longDescription:
                             "This is the website you are viewing right now. Using css and js built a text to handwriting website that allows users to convert Text to Handwriting with  some advance features such as add your own Handwriting.",
