@@ -773,8 +773,8 @@
                         githubUrl: "https://aelly.tk",
                         shortDescription: "Text to handwriting converter with advance features",
                         longDescription:
-                            "This is the website you are viewing right now. Using css and js built a text to handwriting website that allows users to convert TEXT ti HANDWRITING with  some advance features such as add your own Handwriting.",
-                        tools: ["Html", "JavaScript", "CSS", "React"],
+                            "This is the website you are viewing right now. Using css and js built a text to handwriting website that allows users to convert Text to Handwriting with  some advance features such as add your own Handwriting.",
+                        tools: ["HTML", "JavaScript", "CSS", "React"],
                         image: "/assets/images/projects/devProjects/hamilton.jpeg",
                         webpImage: "/assets/images/projects/devProjects/hamilton.webp",
                         key: 8,
