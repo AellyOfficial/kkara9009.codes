@@ -734,39 +734,27 @@
                         key: 4,
                     },
                     {
-                        title: "Boss Button",
-                        githubUrl: "https://github.com/NTielman/Boss-button",
-                        demoUrl: "https://unruffled-lichterman-d3e059.netlify.app/",
-                        shortDescription: "Hackathon project - creating a button with surprising effects",
-                        longDescription:
-                            "Participated in Winc Academy's 'best button' hackathon. Collaborated with team members by making use of VsCode's Live Share extension, which allowed us to share a live server and code simultaneously in the same files. Our team came up with the combined idea of making a button that multiplies on click, and whose 'child buttons' all have differing effects. My tasks: Wrote the user story as a guideline for how the final site experience should look and feel. Developed the 'water' and 'cat' buttons. Responsible for the site's design and fixing animations.",
-                        tools: ["CSS", "HTML", "JavaScript"],
-                        image: "/assets/images/projects/devProjects/bestButton.jpg",
-                        webpImage: "/assets/images/projects/devProjects/bestButton.webp",
-                        key: 5,
-                    },
-                    {
                         title: "Portfolio",
-                        githubUrl: "https://github.com/NTielman/Portfolio",
+                        githubUrl: "https://github.com/itzKARAN/Portfolio",
                         shortDescription: "A portfolio website showcasing personal projects",
                         longDescription:
                             "This is the website you are viewing right now. Using React built a portfolio website that allows users to toggle between designer and developer mode and view past and current projects. Designed 2 interactive homepages and 2 projectcards that react to the user's cursor movements.",
                         tools: ["React", "Redux", "JavaScript", "CSS", "HTML", "parallax.js"],
                         image: "/assets/images/projects/devProjects/portfolio.png",
                         webpImage: "/assets/images/projects/devProjects/portfolio.webp",
-                        key: 6,
+                        key: 5,
                     },
                     {
                         title: "Tarot Api",
-                        githubUrl: "https://github.com/NTielman/Tarot-Reader",
-                        demoUrl: "https://awesome-albattani-455531.netlify.app/",
+                        githubUrl: "https://github.com/itzKARAN/Tarot-Reader",
+                        demoUrl: "https://itzkaran-tarot-reader.netlify.app/",
                         shortDescription: "Find out what the future holds for you with this Tarot reader",
                         longDescription:
                             "Using a public tarot API in combination with a printable tarot deck found online, I created a web app that provides users with daily tarot readings as well as an image library where users can learn the meanings behind all 78 cards.",
                         tools: ["Vue", "JavaScript", "CSS", "HTML"],
                         image: "/assets/images/projects/devProjects/tarot.jpg",
                         webpImage: "/assets/images/projects/devProjects/tarot.webp",
-                        key: 7,
+                        key: 6,
                     },
                     {
                         title: "Text to Handwriting",
@@ -777,7 +765,7 @@
                         tools: ["HTML", "JavaScript", "CSS", "React"],
                         image: "/assets/images/projects/devProjects/hamilton.jpeg",
                         webpImage: "/assets/images/projects/devProjects/hamilton.webp",
-                        key: 8,
+                        key: 7,
                     },
                 ].reverse(),
                 R = [
