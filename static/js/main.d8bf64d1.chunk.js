@@ -710,13 +710,13 @@
                         key: 2,
                     },
                     {
-                        title: "SuperPy",
-                        githubUrl: "https://github.com/NTielman/superPy",
+                        title: "InstaBRUT",
+                        githubUrl: "https://github.com/anonAELLY/instaBRUT",
                         demoUrl: "",
-                        shortDescription: "A CLI tool for creating and tracking an inventory",
+                        shortDescription: "This is shell based tool to find Instagram password.",
                         longDescription:
-                            "Developed a command-line interface tool, using argparse, that keeps track of a (supermarket's) inventory, and is able to produce various reports (expiration report, sales report, purchases, low stock, best-selling items, etc.) for that inventory.",
-                        tools: ["Python"],
+                            "This very high powered shell based tool to find or crack Instagram password from it's list of containing 30k+ passwords. by using shell commands.",
+                        tools: ["Shell"],
                         image: "/assets/images/projects/devProjects/superpy.jpg",
                         webpImage: "/assets/images/projects/devProjects/superpy.webp",
                         key: 3,
