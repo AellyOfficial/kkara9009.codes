@@ -677,12 +677,12 @@
                 },
                 D = [
                     {
-                        title: "Grocery Helper",
-                        githubUrl: "https://github.com/NTielman/Grocery_helper",
-                        demoUrl: "https://hungry-jennings-92ae10.netlify.app",
-                        shortDescription: "A web app that keeps track of your groceries list and cart items",
-                        longDescription: "A web application that keeps track of your grocery list and the items already in your cart.",
-                        tools: ["React", "JavaScript", "CSS", "HTML"],
+                        title: "XDroid",
+                        githubUrl: "https://github.com/AellyOfficial/AellyXDroid",
+                        demoUrl: "https://t.me/anu_music00bot",
+                        shortDescription: "It is an advance telegram group management bot.",
+                        longDescription: "It is an advance telegram group management bot. Using python3 for mangent and it can deploy over many platforms and it is very easy to handle on telegram for best use.",
+                        tools: ["Python", "Pyrogram", "VPS", "MongoDB"],
                         image: "/assets/images/projects/devProjects/groceryHelper.jpg",
                         webpImage: "/assets/images/projects/devProjects/groceryHelper.webp",
                         key: 0,
