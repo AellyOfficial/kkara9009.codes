@@ -705,8 +705,8 @@
                         shortDescription: "Telegram Music UserBot",
                         longDescription: "This is an Telegram based UserBot which helps you to play over voice chat and it is very easy to deploy over telegram account, it's having very easy command module interface. ",
                         tools: ["Python", "Pyrogram", "Pycalls", "VPS", "Telegram", "GitHub"],
-                        image: "/assets/images/projects/devProjects/dashboard.jpg",
-                        webpImage: "/assets/images/projects/devProjects/dashboard.webp",
+                        image: "/assets/images/projects/devProjects/AellyXMusic.jpg",
+                        webpImage: "/assets/images/projects/devProjects/AellyXMusic.webp",
                         key: 2,
                     },
                     {
