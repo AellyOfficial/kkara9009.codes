@@ -30,7 +30,7 @@ A portfolio website showcasing personal projects I have been or am working on.
 
 
 ## Live Demo 
-https://ntielman.github.io/Portfolio/
+https://anunicn47.github.io/Portfolio/
 
 
 ## Usage & Details 
@@ -41,6 +41,3 @@ A website to showcase past and current projects.
 * To include or exclude specific types of projects tap on the desired words from the filtermenu above the projects 
 * To view more info on a specific project hover over the project and click on any desired links
 * To connect or contact me on w specific social site, tap on the desired social icon in the contact section
-
-## Credits
-For the second homepage (Design homepage) i make use of [Matthew Wagerfield's](https://github.com/wagerfield) parallax.js library.
