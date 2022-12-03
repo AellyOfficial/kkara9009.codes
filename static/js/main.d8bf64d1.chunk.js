@@ -729,8 +729,8 @@
                         longDescription:
                             "This is an Telegram bot source code for playing music on voice chat. Using Python, modeled a database that stores at MongoDB, the tags and images associated with souce code,. This is an open source code.",
                         tools: ["Python", "GitHub", "Pyrogram", "Telegram", "HTML", "MongoDB", "VPS"],
-                        image: "/assets/images/projects/devProjects/betsy.jpg",
-                        webpImage: "/assets/images/projects/devProjects/betsy.webp",
+                        image: "/assets/images/projects/devProjects/Xjingle.jpg",
+                        webpImage: "/assets/images/projects/devProjects/Xjingle.webp",
                         key: 4,
                     },
                     {
