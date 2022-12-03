@@ -763,8 +763,8 @@
                         longDescription:
                             "This is the website you are viewing right now. Using css and js built a text to handwriting website that allows users to convert Text to Handwriting with  some advance features such as add your own Handwriting.",
                         tools: ["HTML", "JavaScript", "CSS", "React"],
-                        image: "/assets/images/projects/devProjects/hamilton.jpeg",
-                        webpImage: "/assets/images/projects/devProjects/hamilton.webp",
+                        image: "/assets/images/projects/devProjects/Text.jpeg",
+                        webpImage: "/assets/images/projects/devProjects/Text.webp",
                         key: 7,
                     },
                 ].reverse(),
