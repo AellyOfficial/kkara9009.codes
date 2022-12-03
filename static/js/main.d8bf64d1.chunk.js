@@ -683,8 +683,8 @@
                         shortDescription: "It is an advance telegram group management bot.",
                         longDescription: "It is an advance telegram group management bot. Using python3 for mangent and it can deploy over many platforms and it is very easy to handle on telegram for best use.",
                         tools: ["Python", "Pyrogram", "VPS", "MongoDB"],
-                        image: "/assets/images/projects/devProjects/groceryHelper.jpg",
-                        webpImage: "/assets/images/projects/devProjects/groceryHelper.webp",
+                        image: "/assets/images/projects/devProjects/XDroid.jpg",
+                        webpImage: "/assets/images/projects/devProjects/XDroid.webp",
                         key: 0,
                     },
                     {
@@ -694,8 +694,8 @@
                         shortDescription: "AellyX is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python(3.8)",
                         longDescription: "AellyX is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python(3.8).Takedown WiFi access points, devices in your network, servers, services, and Bluetooth devices with ease. Aelly(abbreviation) is desinged to help you to test, understand, and learn from stress-testing attacks.Aelly can deal with strong servers and can be optimized for non typical targets",
                         tools: ["Python", "Shell", "AellyX", "GitHub", "Bash"],
-                        image: "/assets/images/projects/devProjects/lilAellyX.jpg",
-                        webpImage: "/assets/images/projects/devProjects/lilAellyX.webp",
+                        image: "/assets/images/projects/devProjects/AellyX.jpg",
+                        webpImage: "/assets/images/projects/devProjects/AellyX.webp",
                         key: 1,
                     },
                     {
