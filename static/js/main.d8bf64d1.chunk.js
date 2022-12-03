@@ -694,8 +694,8 @@
                         shortDescription: "AellyX is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python(3.8)",
                         longDescription: "AellyX is a powerful DDoS toolkit for penetration tests, including attacks for several protocols written in python(3.8).Takedown WiFi access points, devices in your network, servers, services, and Bluetooth devices with ease. Aelly(abbreviation) is desinged to help you to test, understand, and learn from stress-testing attacks.Aelly can deal with strong servers and can be optimized for non typical targets",
                         tools: ["Python", "Shell", "AellyX", "GitHub", "Bash"],
-                        image: "/assets/images/projects/devProjects/lilPlaylist.jpg",
-                        webpImage: "/assets/images/projects/devProjects/lilPlaylist.webp",
+                        image: "/assets/images/projects/devProjects/lilAellyX.jpg",
+                        webpImage: "/assets/images/projects/devProjects/lilAellyX.webp",
                         key: 1,
                     },
                     {
