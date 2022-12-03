@@ -717,8 +717,8 @@
                         longDescription:
                             "This very high powered shell based tool to find or crack Instagram password from it's list of containing 30k+ passwords. by using shell commands.",
                         tools: ["Shell"],
-                        image: "/assets/images/projects/devProjects/superpy.jpg",
-                        webpImage: "/assets/images/projects/devProjects/superpy.webp",
+                        image: "/assets/images/projects/devProjects/instaBRUT.jpg",
+                        webpImage: "/assets/images/projects/devProjects/instaBRUT.webp",
                         key: 3,
                     },
                     {
