@@ -137,7 +137,7 @@
                                         title: "download resume",
                                         onClick: function () {
                                             var e = document.createElement("a");
-                                            e.setAttribute("href", "/Portfolio/assets/resume/NTielman.pdf"), e.setAttribute("download", "NTielman-resume.pdf"), e.click();
+                                            e.setAttribute("href", "/Portfolio/assets/resume/Karan.pdf"), e.setAttribute("download", "Karan-resume.pdf"), e.click();
                                         },
                                         "data-tooltip": "Download Resume",
                                         children: Object(f.jsx)(h.a, { icon: b.e }),
