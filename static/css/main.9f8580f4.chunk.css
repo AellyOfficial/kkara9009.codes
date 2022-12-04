@@ -327,10 +327,10 @@ label {
     left: 0;
 }
 .no-webp .flesh-bg {
-    background: url(/kkara9009/static/media/flesh.f26b8cc4.png) no-repeat top/100%;
+    background: url(/kkara9009.tk/static/media/flesh.f26b8cc4.png) no-repeat top/100%;
 }
 .webp .flesh-bg {
-    background: url(/kkara9009/static/media/flesh.15d717e8.webp) no-repeat top/100%;
+    background: url(/kkara9009.tk/static/media/flesh.15d717e8.webp) no-repeat top/100%;
 }
 .flesh-bg:after {
     height: 50%;
@@ -361,7 +361,7 @@ label {
         no-repeat 50% / cover;
 }
 .webp .pupil {
-    background: url(/kkara9009/static/media/pupil.a9b87901.webp) no-repeat 50% / cover;
+    background: url(/kkara9009.tk/static/media/pupil.a9b87901.webp) no-repeat 50% / cover;
 }
 .pupil {
     width: 20%;
@@ -383,14 +383,14 @@ img.bone-bg {
         no-repeat top left/150px;
 }
 .webp img.bone-bg {
-    -webkit-mask: url(/kkara9009/static/media/xrayCursor.56ab7049.webp) no-repeat top left/150px;
-    mask: url(/kkara9009/static/media/xrayCursor.56ab7049.webp) no-repeat top left/150px;
+    -webkit-mask: url(/kkara9009.tk/static/media/xrayCursor.56ab7049.webp) no-repeat top left/150px;
+    mask: url(/kkara9009.tk/static/media/xrayCursor.56ab7049.webp) no-repeat top left/150px;
 }
 .no-webp .parallax-container {
-    background: url(/kkara9009/static/media/1skyBackground.7aa1c712.png) no-repeat top/100%;
+    background: url(/kkara9009.tk/static/media/1skyBackground.7aa1c712.png) no-repeat top/100%;
 }
 .webp .parallax-container {
-    background: url(/kkara9009/static/media/1skyBackground.087021c1.webp) no-repeat top/100%;
+    background: url(/kkara9009.tk/static/media/1skyBackground.087021c1.webp) no-repeat top/100%;
 }
 .parallax-container {
     overflow: hidden;
@@ -421,11 +421,11 @@ img.bone-bg {
     z-index: -1;
 }
 .no-webp .trees:before {
-    background: url(/kkara9009/static/media/3treesMidground.b5dcf984.png);
+    background: url(/kkara9009.tk/static/media/3treesMidground.b5dcf984.png);
     background-size: 100%;
 }
 .webp .trees:before {
-    background: url(/kkara9009/static/media/3treesMidground.7273e1c2.webp);
+    background: url(/kkara9009.tk/static/media/3treesMidground.7273e1c2.webp);
     background-size: 100%;
 }
 .shack {
