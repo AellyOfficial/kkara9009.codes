@@ -60,8 +60,8 @@
         (l.o = function (e, r) {
             return Object.prototype.hasOwnProperty.call(e, r);
         }),
-        (l.p = "/kkara9009.tk/");
-    var f = (this.webpackJsonpkkara9009.tk = this.webpackJsonpkkara9009.tk || []),
+        (l.p = "/kkara9009/");
+    var f = (this.webpackJsonpkkara9009 = this.webpackJsonpkkara9009 || []),
         i = f.push.bind(f);
     (f.push = r), (f = f.slice());
     for (var p = 0; p < f.length; p++) r(f[p]);
