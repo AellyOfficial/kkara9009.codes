@@ -740,8 +740,8 @@
                         longDescription:
                             "This is the website you are viewing right now. Using React built a portfolio website that allows users to toggle between designer and developer mode and view past and current projects. Designed 2 interactive homepages and 2 projectcards that react to the user's cursor movements.",
                         tools: ["React", "Redux", "JavaScript", "CSS", "HTML", "parallax.js"],
-                        image: "/assets/images/projects/devProjects/portfolio.png",
-                        webpImage: "/assets/images/projects/devProjects/portfolio.webp",
+                        image: "/assets/images/projects/devProjects/kkara9009.png",
+                        webpImage: "/assets/images/projects/devProjects/kkara9009.webp",
                         key: 5,
                     },
                     {

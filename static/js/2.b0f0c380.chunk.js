@@ -1,5 +1,5 @@
 /*! For license information please see 2.b0f0c380.chunk.js.LICENSE.txt */
-(this.webpackJsonpportfolio = this.webpackJsonpportfolio || []).push([
+(this.webpackJsonpkkara9009 = this.webpackJsonpkkara9009 || []).push([
     [2],
     [
         function (e, t, n) {
