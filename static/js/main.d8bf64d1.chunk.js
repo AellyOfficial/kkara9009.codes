@@ -1,4 +1,4 @@
-(this.webpackJsonpportfolio = this.webpackJsonpportfolio || []).push([
+(this.webpackJsonpkkara9009 = this.webpackJsonpkkara9009 || []).push([
     [0],
     {
         33: function (e, t, s) {},
@@ -137,7 +137,7 @@
                                         title: "download resume",
                                         onClick: function () {
                                             var e = document.createElement("a");
-                                            e.setAttribute("href", "/Portfolio/assets/resume/Karan.pdf"), e.setAttribute("download", "Karan-resume.pdf"), e.click();
+                                            e.setAttribute("href", "/kkara9009/assets/resume/Karan.pdf"), e.setAttribute("download", "Karan-resume.pdf"), e.click();
                                         },
                                         "data-tooltip": "Download Resume",
                                         children: Object(f.jsx)(h.a, { icon: b.e }),
@@ -222,9 +222,9 @@
                             }),
                             Object(f.jsxs)("picture", {
                                 children: [
-                                    Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/dev/bone.webp" }),
-                                    Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/dev/bone.png" }),
-                                    Object(f.jsx)("img", { ref: o, src: "/Portfolio/assets/images/home/dev/bone.png", alt: "x-ray background", className: "bone-bg", width: "1600", height: "900" }),
+                                    Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/dev/bone.webp" }),
+                                    Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/dev/bone.png" }),
+                                    Object(f.jsx)("img", { ref: o, src: "/kkara9009/assets/images/home/dev/bone.png", alt: "x-ray background", className: "bone-bg", width: "1600", height: "900" }),
                                 ],
                             }),
                         ],
@@ -258,9 +258,9 @@
                                         "data-depth": "0.2",
                                         children: Object(f.jsxs)("picture", {
                                             children: [
-                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/design/2waterTower.webp" }),
-                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/design/2waterTower.png" }),
-                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio/assets/images/home/design/2waterTower.png", alt: "background tower" }),
+                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/design/2waterTower.webp" }),
+                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/design/2waterTower.png" }),
+                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009/assets/images/home/design/2waterTower.png", alt: "background tower" }),
                                             ],
                                         }),
                                     }),
@@ -269,9 +269,9 @@
                                         "data-depth": "0.3",
                                         children: Object(f.jsxs)("picture", {
                                             children: [
-                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/design/3treesMidground.webp" }),
-                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/design/3treesMidground.png" }),
-                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio/assets/images/home/design/3treesMidground.png", alt: "background trees" }),
+                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/design/3treesMidground.webp" }),
+                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/design/3treesMidground.png" }),
+                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009/assets/images/home/design/3treesMidground.png", alt: "background trees" }),
                                             ],
                                         }),
                                     }),
@@ -280,9 +280,9 @@
                                         "data-depth": "0.4",
                                         children: Object(f.jsxs)("picture", {
                                             children: [
-                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/design/4mysteryShack.webp" }),
-                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/design/4mysteryShack.png" }),
-                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio/assets/images/home/design/4mysteryShack.png", alt: "mystery shack" }),
+                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/design/4mysteryShack.webp" }),
+                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/design/4mysteryShack.png" }),
+                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009/assets/images/home/design/4mysteryShack.png", alt: "mystery shack" }),
                                             ],
                                         }),
                                     }),
@@ -291,9 +291,9 @@
                                         "data-depth": "1",
                                         children: Object(f.jsxs)("picture", {
                                             children: [
-                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/design/5floatingCharacters.webp" }),
-                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/design/5floatingCharacters.png" }),
-                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio/assets/images/home/design/5floatingCharacters.png", alt: "floating characters" }),
+                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/design/5floatingCharacters.webp" }),
+                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/design/5floatingCharacters.png" }),
+                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009/assets/images/home/design/5floatingCharacters.png", alt: "floating characters" }),
                                             ],
                                         }),
                                     }),
@@ -302,9 +302,9 @@
                                         "data-depth": "0.5",
                                         children: Object(f.jsxs)("picture", {
                                             children: [
-                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/design/5groundCharacters.webp" }),
-                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/design/5groundCharacters.png" }),
-                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio/assets/images/home/design/5groundCharacters.png", alt: "ground characters" }),
+                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/design/5groundCharacters.webp" }),
+                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/design/5groundCharacters.png" }),
+                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009/assets/images/home/design/5groundCharacters.png", alt: "ground characters" }),
                                             ],
                                         }),
                                     }),
@@ -313,9 +313,9 @@
                                         "data-depth": "0",
                                         children: Object(f.jsxs)("picture", {
                                             children: [
-                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio/assets/images/home/design/7treesForeground.webp" }),
-                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio/assets/images/home/design/7treesForeground.png" }),
-                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio/assets/images/home/design/7treesForeground.png", alt: "foreground trees" }),
+                                                Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009/assets/images/home/design/7treesForeground.webp" }),
+                                                Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009/assets/images/home/design/7treesForeground.png" }),
+                                                Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009/assets/images/home/design/7treesForeground.png", alt: "foreground trees" }),
                                             ],
                                         }),
                                     }),
@@ -375,9 +375,9 @@
                                         children: [
                                             Object(f.jsxs)("picture", {
                                                 children: [
-                                                    Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio" + l }),
-                                                    Object(f.jsx)("source", { type: "image/png", srcSet: "/Portfolio" + n }),
-                                                    Object(f.jsx)("img", { loading: "lazy", className: "avatar", src: "/Portfolio" + n, alt: "Avatar of Karan", width: "300", height: "300" }),
+                                                    Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009" + l }),
+                                                    Object(f.jsx)("source", { type: "image/png", srcSet: "/kkara9009" + n }),
+                                                    Object(f.jsx)("img", { loading: "lazy", className: "avatar", src: "/kkara9009" + n, alt: "Avatar of Karan", width: "300", height: "300" }),
                                                 ],
                                             }),
                                             Object(f.jsx)("figcaption", { className: "about-caption", children: d }),
@@ -539,9 +539,9 @@
                                         children: [
                                             Object(f.jsxs)("picture", {
                                                 children: [
-                                                    Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio" + p }),
-                                                    Object(f.jsx)("source", { type: "image/jpeg", srcSet: "/Portfolio" + d }),
-                                                    Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/Portfolio" + d, alt: "project preview" }),
+                                                    Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009" + p }),
+                                                    Object(f.jsx)("source", { type: "image/jpeg", srcSet: "/kkara9009" + d }),
+                                                    Object(f.jsx)("img", { width: "1600", height: "900", loading: "lazy", src: "/kkara9009" + d, alt: "project preview" }),
                                                 ],
                                             }),
                                             Object(f.jsxs)("div", {
@@ -656,9 +656,9 @@
                                 children: [
                                     Object(f.jsxs)("picture", {
                                         children: [
-                                            Object(f.jsx)("source", { type: "image/webp", srcSet: "/Portfolio" + n }),
-                                            Object(f.jsx)("source", { type: "image/jpeg", srcSet: "/Portfolio" + c }),
-                                            Object(f.jsx)("img", { width: "100", height: "100", loading: "lazy", src: "/Portfolio" + c, alt: "project preview" }),
+                                            Object(f.jsx)("source", { type: "image/webp", srcSet: "/kkara9009" + n }),
+                                            Object(f.jsx)("source", { type: "image/jpeg", srcSet: "/kkara9009" + c }),
+                                            Object(f.jsx)("img", { width: "100", height: "100", loading: "lazy", src: "/kkara9009" + c, alt: "project preview" }),
                                         ],
                                     }),
                                     Object(f.jsxs)("div", { ref: p, className: "card-content", children: [Object(f.jsx)("h3", { className: "card-title", children: s }), Object(f.jsx)("p", { className: "card-subtitle", children: r })] }),
@@ -734,7 +734,7 @@
                         key: 4,
                     },
                     {
-                        title: "Portfolio",
+                        title: "kkara9009",
                         githubUrl: "https://github.com/itzKARAN/Portfolio",
                         shortDescription: "A portfolio website showcasing personal projects",
                         longDescription:
