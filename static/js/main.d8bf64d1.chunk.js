@@ -1,4 +1,4 @@
-(this.webpackJsonpkkara9009.tk = this.webpackJsonpkkara9009.tk || []).push([
+(this.webpackJsonpkkara9009 = this.webpackJsonpkkara9009 || []).push([
     [0],
     {
         33: function (e, t, s) {},
@@ -736,7 +736,7 @@
                     {
                         title: "Portfolio",
                         githubUrl: "https://github.com/itzKARAN/Portfolio",
-                        DemoUrl: "https://kkara9009.tk",
+                        DemoUrl: "https://kkara9009",
                         shortDescription: "A portfolio website showcasing personal projects",
                         longDescription:
                             "This is the website you are viewing right now. Using React built a portfolio website that allows users to toggle between designer and developer mode and view past and current projects. Designed 2 interactive homepages and 2 projectcards that react to the user's cursor movements.",
