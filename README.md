@@ -30,7 +30,7 @@ A portfolio website showcasing personal projects I have been or am working on.
 
 
 ## Live Demo 
-https://anunicn47.github.io/Portfolio/
+https://anunicn47.github.io/kkara9009/
 
 
 ## Usage & Details 
