@@ -1080,10 +1080,10 @@
                 },
                 B = function () {
                     var e = [
-                            { contactMethod: "linkedin", url: "https://www.linkedin.com/in/kkara9009.tk/", iconName: C.e, showOn: "both" },
-                            { contactMethod: "github", url: "https://github.com/kkara9009.tk", iconName: C.c, showOn: "dev" },
-                            { contactMethod: "instagram", url: "https://www.instagram.com/kkara9009.tk/?hl=en", iconName: C.d, showOn: "des" },
-                            { contactMethod: "gmail", url: "mailto:kkara9009.tk@gmail.com", iconName: b.d, showOn: "both" },
+                            { contactMethod: "linkedin", url: "https://www.linkedin.com/in/kkara9009/", iconName: C.e, showOn: "both" },
+                            { contactMethod: "github", url: "https://github.com/kkara9009", iconName: C.c, showOn: "dev" },
+                            { contactMethod: "instagram", url: "https://www.instagram.com/kkara9009/?hl=en", iconName: C.d, showOn: "des" },
+                            { contactMethod: "gmail", url: "mailto:kkara9009@gmail.com", iconName: b.d, showOn: "both" },
                         ],
                         t = Object(g.c)(function (e) {
                             return e.devMode;
