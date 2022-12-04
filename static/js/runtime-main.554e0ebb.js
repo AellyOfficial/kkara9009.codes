@@ -60,7 +60,7 @@
         (l.o = function (e, r) {
             return Object.prototype.hasOwnProperty.call(e, r);
         }),
-        (l.p = "/kkara9009/");
+        (l.p = "/kkara9009.tk/");
     var f = (this.webpackJsonpkkara9009 = this.webpackJsonpkkara9009 || []),
         i = f.push.bind(f);
     (f.push = r), (f = f.slice());
